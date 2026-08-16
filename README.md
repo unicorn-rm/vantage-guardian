@@ -52,7 +52,7 @@ Discord, Telegram, стримы, музыка, рабочие и ИИ-серви
 К каждому выпуску приложен `SHA256SUMS.txt` — проверьте загруженный файл:
 
 ```powershell
-Get-FileHash .\vantage-guardian_0.1.0_x64-setup.exe -Algorithm SHA256 | Format-List
+Get-FileHash .\vantage-guardian_0.2.0_x64-setup.exe -Algorithm SHA256 | Format-List
 ```
 
 ## Лицензия
